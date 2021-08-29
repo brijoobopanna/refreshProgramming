@@ -1,4 +1,3 @@
-package com.interview.array;
 import java.util.Arrays;
 /**
  * Date 03/08/2021

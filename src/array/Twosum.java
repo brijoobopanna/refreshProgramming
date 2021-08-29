@@ -1,4 +1,3 @@
-package com.interview.array;
 import java.util.HashSet;
 
 /**

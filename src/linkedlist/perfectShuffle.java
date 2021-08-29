@@ -1,6 +1,3 @@
-package com.interview.linklist;
-
-
 /**
  * Date 17/08/2021
  * @author Brijoo Bopanna
