@@ -1,5 +1,5 @@
-Just a way to refreh some programming basic and keep the basics intact
+Just a way to refresh some programming basic and improve the understanding of Java and DS, Algos
 
 Contribution
-Please contribute to this repository, like new question, code improvement, doc improvement etc. 
-is very welcome. Just send me a pull request and I will review the request and approve it if it looks good.
+Please contribute to this repository, like new code question, algos improvement, new DS etc. 
+Just send me a pull request and I will review the request and approve it if it looks good.
